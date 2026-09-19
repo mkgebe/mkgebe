@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="hi, i'm meri ~ ai workflows without the complication" />
+<img src="./header.svg" width="100%" alt="hi, i'm meri ~ ai workflows without the complication" />
 
 <br/>
 
@@ -14,9 +14,9 @@
 
 <br/>
 
-<img src="./assets/h-about.svg" width="100%" alt="about me" />
+<img src="./h-about.svg" width="100%" alt="about me" />
 
-<img src="./assets/todo.svg" align="right" width="280" alt="to-do list" />
+<img src="./todo.svg" align="right" width="280" alt="to-do list" />
 
 <br/>
 
@@ -34,15 +34,15 @@ My one rule: AI should never feel like one more thing you have to figure out. So
 
 <br/>
 
-<img src="./assets/h-menu.svg" width="100%" alt="on the menu" />
+<img src="./h-menu.svg" width="100%" alt="on the menu" />
 
 <br/>
 
-<a href="https://www.meribuilds.com"><img src="./assets/menu.svg" width="100%" alt="The Meri Builds menu: Claude Worklab, Operation Lab, Product Lab, Scale Lab, Start Here Map, 100 AI Prompts, Samantha, VA Lab" /></a>
+<a href="https://www.meribuilds.com"><img src="./menu.svg" width="100%" alt="The Meri Builds menu: Claude Worklab, Operation Lab, Product Lab, Scale Lab, Start Here Map, 100 AI Prompts, Samantha, VA Lab" /></a>
 
 <br/><br/>
 
-<img src="./assets/h-desk.svg" width="100%" alt="on my desk" />
+<img src="./h-desk.svg" width="100%" alt="on my desk" />
 
 <div align="center">
 <br/>
@@ -62,7 +62,7 @@ My one rule: AI should never feel like one more thing you have to figure out. So
 
 <br/>
 
-<img src="./assets/h-stats.svg" width="100%" alt="brewing in public" />
+<img src="./h-stats.svg" width="100%" alt="brewing in public" />
 
 <div align="center">
 <br/>
@@ -79,7 +79,7 @@ My one rule: AI should never feel like one more thing you have to figure out. So
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="AI should never feel like one more thing you have to figure out. ~ meri" />
+<img src="./footer.svg" width="100%" alt="AI should never feel like one more thing you have to figure out. ~ meri" />
 
 <br/><br/>
 
